@@ -1,0 +1,32 @@
+Posicion,Pais,Oro,Plata,Bronce,Total,RankingTotal,Zona
+1,Estados Unidos,120,88,85,293,1,America del Norte
+2,Brasil,55,45,71,171,2,America del Sur
+3,México,37,36,63,136,4,America del Norte
+4,Canadá,35,64,53,152,3,America del Norte
+5,Cuba,33,27,38,98,6,America del Centro
+6,Argentina,32,35,34,101,5,America del Sur
+7,Colombia,28,23,33,84,7,America del Sur
+8,Chile,13,19,18,50,8,America del Sur
+9,Perú,11,7,21,39,11,America del Sur
+10,República Dominicana,10,13,17,40,10,America del Centro
+11,Ecuador,10,7,14,31,12,America del Sur
+12,Venezuela,9,15,19,43,9,America del Sur
+13,Jamaica,6,6,7,19,14,America del Centro
+14,Puerto Rico,5,5,14,24,13,America del Centro
+15,El Salvador,3,0,1,4,21,America del Centro
+16,Guatemala,2,9,8,19,14,America del Centro
+17,Trinidad y Tobago,2,8,3,13,16,America del Centro
+18,Uruguay,1,4,4,9,17,America del Sur
+19,Paraguay,1,3,1,5,18,America del Sur
+20,Bolivia,1,2,2,5,18,America del Sur
+21,Granada,1,1,0,2,25,America del Centro
+22,Costa Rica,1,0,4,5,18,America del Centro
+23,Santa Lucia,1,0,1,2,25,America del Centro
+24,Barbados,1,0,0,1,28,America del Centro
+24,Islas Vírgenes B,1,0,0,1,28,America del Centro
+26,Antigua y Barbuda,0,1,2,3,23,America del Centro
+27,Honduras,0,1,1,2,25,America del Centro
+28,Panamá,0,0,4,4,21,America del Centro
+29,Nicaragua,0,0,3,3,23,America del Centro
+30,Aruba,0,0,1,1,28,America del Centro
+30,Bahamas,0,0,1,1,28,America del Centro
